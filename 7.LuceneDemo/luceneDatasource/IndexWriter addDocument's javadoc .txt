@@ -1,0 +1,1 @@
+Adds a document to this index.If the document contains more than setMaxFieldLength(int) terms for a given
